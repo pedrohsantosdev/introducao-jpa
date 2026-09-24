@@ -262,23 +262,6 @@ src/main/resources/META-INF/persistence.xml
 
 ---
 
-## 🚧 Próximos passos
-
-Este projeto representa uma primeira etapa no estudo de JPA. Algumas melhorias planejadas são:
-
-* [ ] Implementar `find()`
-* [ ] Implementar atualização com `merge()`
-* [ ] Implementar remoção com `remove()`
-* [ ] Criar um CRUD completo de `Pessoa`
-* [ ] Criar uma camada DAO/Repository
-* [ ] Adicionar camada Service
-* [ ] Implementar tratamento de exceções
-* [ ] Criar consultas JPQL
-* [ ] Trabalhar com relacionamentos `@OneToMany` e `@ManyToOne`
-* [ ] Evoluir posteriormente para **Spring Data JPA**
-
----
-
 ## 📚 Conceitos praticados
 
 Este projeto serviu como introdução prática aos seguintes conceitos:
